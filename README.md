@@ -1,10 +1,10 @@
 # PREVALENT
 Towards Learning a Generic Agent forVision-and-Language Navigation via Pre-training (**PREVALENT**)
 
- [Weituo Hao],
+ Weituo Hao,
  [Chunyuan Li](http://chunyuan.li/),
- [Xiujun Li],
- [Jianfeng Gao],
+ Xiujun Li,
+ Jianfeng Gao,
  [Lawrence Carin](http://people.ee.duke.edu/~lcarin/)
 
 
