@@ -4,8 +4,8 @@ This repository contains source code to reproduce the results presented in the p
 
 [Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](http://arxiv.com), CVPR 2020
 <br>
- Weituo Hao,
- [Chunyuan Li](http://chunyuan.li/),
+ Weituo Hao*,
+ [Chunyuan Li*](http://chunyuan.li/),
  Xiujun Li,
  [Lawrence Carin](http://people.ee.duke.edu/~lcarin/),
  Jianfeng Gao
