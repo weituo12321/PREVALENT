@@ -1,4 +1,4 @@
-# PREVALENT
+# <span style="font-variant:small-caps;">PREVALENT</span> 
 Towards Learning a Generic Agent forVision-and-Language Navigation via Pre-training (**PREVALENT**)
 
 [Towards Learning a Generic Agent forVision-and-Language Navigation via Pre-training](your site)
