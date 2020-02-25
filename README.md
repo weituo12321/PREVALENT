@@ -3,7 +3,7 @@ This repository contains source code to reproduce the results presented in the p
 
 
 [Towards Learning a Generic Agent forVision-and-Language Navigation via Pre-training](http://arxiv.com), CVPR 2020
-
+<br>
  Weituo Hao,
  [Chunyuan Li](http://chunyuan.li/),
  Xiujun Li,
@@ -12,7 +12,7 @@ This repository contains source code to reproduce the results presented in the p
 
 
 <p align="center">
-  <img width="%80" height="%80" src=pretrain_finetune.png>
+  <img width="460" height="300" src=pretrain_finetune.png>
 </p>
 
 
