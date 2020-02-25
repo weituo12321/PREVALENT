@@ -1,13 +1,19 @@
 # Prevalent: A Pretrained Generic VLN Agent
 This repository contains source code to reproduce the results presented in the paper:
 
-[Towards Learning a Generic Agent forVision-and-Language Navigation via Pre-training](http://arxiv.com)
+```
+[Towards Learning a Generic Agent forVision-and-Language Navigation via Pre-training](http://arxiv.com), CVPR 2020
 
  Weituo Hao,
  [Chunyuan Li](http://chunyuan.li/),
  Xiujun Li,
  [Lawrence Carin](http://people.ee.duke.edu/~lcarin/),
  Jianfeng Gao
+ ```
+
+<p align="center">
+  <img width="%80" height="%80" src=images/pretrain_finetune.png>
+</p>
 
 
 
