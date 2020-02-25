@@ -1,7 +1,7 @@
-# Prevalent: A Pretrained Generic VLN Agent: 
+# Prevalent: A Pretrained Generic VLN Agent
 Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training
 
-[Towards Learning a Generic Agent forVision-and-Language Navigation via Pre-training](your site)
+[Towards Learning a Generic Agent forVision-and-Language Navigation via Pre-training](arxiv.com)
 
 
  Weituo Hao,
