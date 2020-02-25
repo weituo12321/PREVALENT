@@ -20,6 +20,13 @@ This repository contains source code to reproduce the results presented in the p
 
 
 #### Pretrain  
+
+<p align="center">
+ <kbd>
+  <img width="600" height="250" src=pre_training_scheme.png>
+ </kbd>
+</p>
+
 #### R2R  
 - Please check [here](https://github.com/airsplay/R2R-EnvDrop) for experiment setup    
 
