@@ -2,7 +2,7 @@
 This repository contains source code to reproduce the results presented in the paper:
 
 
-[Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](http://arxiv.com), CVPR 2020
+[Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](https://128.84.21.199/abs/2002.10638), CVPR 2020
 <br>
  Weituo Hao*,
  [Chunyuan Li*](http://chunyuan.li/),
