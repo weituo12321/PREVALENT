@@ -27,7 +27,8 @@ This repository contains source code to reproduce the results presented in the p
  </kbd>
 </p>  
 
-Our collected triplets can be downloaded [here](https://drive.google.com/drive/folders/1tvg8Kuu5Q1wfFGIa-ha8NNqv0Nd6x-EO?usp=sharing)
+Our collected triplets can be downloaded [here](https://drive.google.com/drive/folders/1tvg8Kuu5Q1wfFGIa-ha8NNqv0Nd6x-EO?usp=sharing)  
+
 The pretrained model can be downloaded [here](https://drive.google.com/drive/folders/1sW2xVaSaciZiQ7ViKzm_KbrLD_XvOq5y?usp=sharing)
 
 #### R2R  
