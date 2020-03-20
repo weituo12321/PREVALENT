@@ -25,7 +25,9 @@ This repository contains source code to reproduce the results presented in the p
  <kbd>
   <img width="600" height="250" src=pre_training_scheme.png>
  </kbd>
-</p>
+</p>  
+
+The pretrained model can be downloaded [here](https://drive.google.com/drive/folders/1sW2xVaSaciZiQ7ViKzm_KbrLD_XvOq5y?usp=sharing)
 
 #### R2R  
 - Please check [here](https://github.com/airsplay/R2R-EnvDrop) for experiment setup    
