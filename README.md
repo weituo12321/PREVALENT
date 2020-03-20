@@ -1,4 +1,4 @@
-# Prevalent: A Pretrained Generic VLN Agent
+# Prevalent: A Pretrained Generic VLN Agent [Code Clean Is In Progress]
 This repository contains source code to reproduce the results presented in the paper:
 
 
