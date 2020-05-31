@@ -1,6 +1,9 @@
-# Prevalent: A Pretrained Generic VLN Agent [Code Clean Is In Progress]
-This repository contains source code to reproduce the results presented in the paper:
+# Prevalent: A Pretrained Generic VLN Agent 
 
+
+[Code Clean Is In Progress, expected to release in late June]
+
+This repository contains source code to reproduce the results presented in the paper:
 
 [Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](https://arxiv.org/abs/2002.10638), CVPR 2020
 <br>
