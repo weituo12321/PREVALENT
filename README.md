@@ -33,12 +33,15 @@ The pretrained model can be downloaded [here](https://drive.google.com/drive/fol
 
 #### R2R  
 - Please check [here](https://github.com/airsplay/R2R-EnvDrop) for experiment setup    
+- Please check [here](https://github.com/weituo12321/PREVALENT_R2R) for PREVALENT application    
 
 #### CVDN  
 - Please check [here](https://github.com/mmurray/cvdn) for experiment setup
+- Please check [here](https://github.com/weituo12321/PREVALENT_R2R) for PREVALENT application
 
 #### HANNA
 - Please check [here](https://github.com/khanhptnk/hanna) for experiment setup
+- Please check [here](https://github.com/weituo12321/PREVALENT_HANNA) for PREVALENT application
 
 ## Citation
 If you use this code for your research, please cite our [paper](https://arxiv.org/abs/1709.01215):
