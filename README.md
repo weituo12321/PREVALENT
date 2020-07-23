@@ -1,7 +1,6 @@
 # Prevalent: A Pretrained Generic VLN Agent 
 
 
-[Code Clean Is In Progress, expected to release in late June]
 
 This repository contains source code to reproduce the results presented in the paper:
 
